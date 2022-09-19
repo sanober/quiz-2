@@ -1,0 +1,95 @@
+.border1{
+    border: 2px solid black;
+}
+.border2{
+    border: 2px dotted black;
+}
+.border3{
+    border: 2px dashed black;
+}
+.border4{
+    border: 2px double black;
+}
+.border5{
+    border: 2px outset black;
+}
+.border6{
+    border: 2px inset black;
+}
+.border7{
+    border-left: 2px solid black;
+    border-top: 2px solid black;
+}
+.border8{
+    border-right: 2px solid black;
+    border-bottom: 2px solid black;
+}
+
+.opacity p {
+    background-color: green;
+}
+
+.opacity-10 {
+    opacity: 0.1;
+}
+
+.opacity-30 {
+    opacity: 0.3;
+}
+
+.opacity-60 {
+    opacity: 0.6;
+}
+
+.opacity-100 {
+    opacity: 1;
+}
+
+.rgb-10 {
+    background-color: rgba(0,128,1,0.1);
+}
+
+.rgb-30 {
+    background-color: rgba(0,128,1,0.3);
+}
+
+.rgb-60 {
+    background-color: rgba(0,128,1,0.6);
+}
+
+.rgb-100 {
+    background-color: rgba(0,128,1,1);
+}
+
+.web-development {
+    border: 1px solid red;
+    padding: 25px;
+}
+
+.web-development h2 {
+    text-align: center;
+    color: white;
+    text-shadow: 2px 2px 3px red, 0 0 2px black, 0 0 23px yellow;
+    text-decoration: underline;
+    text-transform: uppercase;
+}
+
+.web-development p {
+    color: #aba9ca;
+    margin-bottom: 0;
+}
+
+.web-development a {
+    color: purple;
+}
+
+.solid-border {
+    border: 2px solid #5a9bd4;
+}
+
+.multi-color-border {
+    border-top: 2px solid #bcb6a6;
+    border-right: 2px solid #5a9bd4;
+    border-bottom: 2px solid #e33a7b;
+    border-left: 2px solid #000000;
+}
